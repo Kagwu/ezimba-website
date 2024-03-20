@@ -1,0 +1,92 @@
+/*BLESS */
+
+body {
+    background-color: whitesmoke;
+}
+
+h1 {
+    background-color: darkgreen;
+    color: white;
+    padding: 8px;
+    text-align: center;
+    
+    
+}
+
+.site-nav-list,
+.site-footer {
+
+    background-color: goldenrod;
+    padding: 0.5em;
+    
+    
+}
+.site-nav-list li {
+    display: inline;
+    margin-right: 1em;
+}
+.site-nav-list a, 
+.site-footer a {
+    color: white;
+    text-decoration: none;
+}
+
+
+.site-logo {
+    margin-bottom: 0;
+}
+.site-slogan {
+    margin: 0;
+    padding: 1em;
+    text-align: center;
+}
+.infoboxs {
+    background-color: darkgreen;
+    padding: 1em;
+    margin-bottom: 1em;
+    border: 10px double goldenrod;
+
+}
+
+.infobox {
+    text-align: center;
+    background-color: white;
+    padding: 1em;
+    margin: 1em;
+
+}
+.mix {
+    color: green;
+}
+.Members {
+    background-color: lightgray;
+    text-align: center;
+    padding: 1em;
+    margin: 1em 0;
+}
+.site-content {
+    text-align: center;
+}
+label {
+    display: block;
+
+}
+
+form div {
+    margin-bottom: 1em;
+    background-color: whitesmoke;
+}
+a.you-are-here {
+    text-decoration: underline;
+
+}
+address {
+    font-style: normal;
+}
+label {
+    display: block;
+
+}
+form div {
+    margin-bottom: 1em;
+}
